@@ -4,7 +4,7 @@
 **ChainTask** is a decentralized task management and collaboration platform built on **Base**, designed to make teamwork transparent, trustless, and rewarding.  
 It enables freelancers, teams, and organizations to create, assign, and verify tasks — with payments and achievements recorded securely **on-chain**.
 
-Built from the [Tommybuild Frontend repo](https://github.com/Tommybuild/Frontend), ChainTask delivers a clean, modern UI for project coordination while introducing **Web3-powered accountability and payment automation**.
+Built from the [Tommybuild repo](https://github.com/Tommybuild/Frontend), ChainTask delivers a clean, modern UI for project coordination while introducing **Web3-powered accountability and payment automation**.
 
 To enhance decentralized functionality and user ownership, **ChainTask integrates WalletConnect** using the libraries **`@reown/appkit`** and **`@reown/appkit-adapter-wagmi`**.  
 This integration enables:
